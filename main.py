@@ -246,12 +246,12 @@ class RedBlackTree:
 
 bst = RedBlackTree()
 
-bst.insert(55)
+bst.insert(10)
+bst.insert(20)
+bst.insert(30)
 bst.insert(40)
-bst.insert(65)
+bst.insert(50)
 bst.insert(60)
-bst.insert(75)
-bst.insert(57)
 
 bst.delete(40)
 
